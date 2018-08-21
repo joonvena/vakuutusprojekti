@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+}
+
+.kategoria {
+  width: 300px;
+  display: inline-block;
+}
+
+.droppable {
+  display: inline-block;
+  width: 300px;
+  margin-left: 100px;
+  margin-right: 100px;
+  border: 1px solid black;  
+}
+
+.draggable {
+  padding: 50px;
+}
